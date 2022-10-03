@@ -1,1 +1,0 @@
-# ecomsur_techtest
